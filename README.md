@@ -143,34 +143,78 @@ Contributions are welcome! Open a pull request or send an email.
 
 ### Version 1.0.0 - Initial Release (November 4, 2024)
 
-### Features
-- **User Authentication:** SSO & biometric login.
-- **Settings Management:** User preferences for notifications & language.
-- **Event Management:** CRUD operations via REST API.
-- **Offline Mode:** Synchronization when reconnected.
-- **Real-time Notifications:** Push notifications for event updates.
-- **Multi-language Support:** Includes at least two South African languages.
-- **Custom Event Reminders:** Users can set customizable reminders.
-- **Cross-Platform Syncing:** Data access across multiple devices.
+## Overview
+The initial release of Event Buddy introduces a comprehensive event management application with key features that enhance user experience, security, and accessibility. This release allows users to manage event-related tasks, receive real-time updates, and personalize their settings through a user-friendly interface.
 
-### Improvements
-- Enhanced **UI/UX** for seamless navigation.
-- Improved **error handling** for stability.
-- **GitHub Actions Integration** for automated CI/CD.
-- **Logging** implemented for debugging.
+## Features
+1. User Authentication 
+   - Single Sign-On (SSO): Secure user registration and login with SSO support for streamlined access.
+   - Biometric Authentication: Optional fingerprint and facial recognition provide an additional layer of security.
+
+2. Settings Management 
+   - Allows users to modify their preferences, including notification settings and language selection.
+
+3. Event Management and Tracking  
+   - Users can view, track, and manage events using a connected REST API, which synchronizes data with a central database.
+
+4. Offline Mode with Synchronization  
+   - Users can access and update event information while offline, with automatic synchronization when back online.
+
+5. Real-Time Notifications 
+   - Push notifications provide timely alerts for updates, reminders, and important announcements related to the user's events.
+
+6. Multi-Language Support 
+   - Available in multiple South African languages to support a wider range of users.
+
+---
+
+## User-Defined Features
+
+1. Customizable Event Reminders
+   - Users will have the ability to set reminders for events at customizable intervals, ensuring they never miss an important moment.
+
+2. Cross-Platform Syncing
+   - EventBuddy will offer seamless syncing across multiple devices, ensuring users can access their event data wherever they go
+
+---
+
+## Improvements
+Enhanced UI/UX 
+> User-friendly interface with consistent design, intuitive navigation, and visual elements for ease of use.
+
+Error Handling 
+> Improved error handling ensures smooth operation and prevents crashes due to invalid input or connectivity issues.
+
+---
+
+## Technical Enhancements
+GitHub Actions Integration
+> Automated CI/CD pipeline set up with GitHub Actions for continuous integration and automated testing.
+
+REST API and Database Setup
+> REST API connects seamlessly to a database for secure and efficient data handling.
+
+Logging  
+> Logging implemented for tracking key app events and debugging.
 
 ---
 
 ## Known Issues
-- **Notification Delays:** Minor server sync delays.
-- **Limited Multi-language Support:** Only two languages available; more will be added in future releases.
+Occasional Delays in Notification Delivery  
+> Notifications may experience minor delays due to server sync times.
+
+Limited Multi-Language Support  
+> Initial release includes two South African languages; additional languages will be added in future releases.
 
 ---
 
-## Future Improvements
-- Expand multi-language support.
-- Introduce event-sharing functionality.
-- Optimize offline synchronization and server connections.
+## Next Steps
+For future versions, we plan to:
+1. Expand multi-language support to more South African languages.
+2. Add event-sharing functionality for easier collaboration.
+3. Improve offline sync times and optimize server connections for real-time updates.
+   
+These release notes outline the initial release features, improvements, technical details, known issues, and planned updates. Contact developer if you’d like more details on any section!
 
 ---
 

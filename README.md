@@ -65,7 +65,7 @@
 
 ## App Demonstration
 A comprehensive demo video is available showcasing:
-- User authentication (SSO & biometric login)
+- User authentication (SSO & Biometric Login)
 - Settings configuration
 - Event creation & management
 - REST API integration
@@ -73,7 +73,7 @@ A comprehensive demo video is available showcasing:
 - Real-time notifications
 - Multi-language support
 
-[Watch the Demo](https://youtu.be/61CBP3WYmlQ)
+[Click Here To Watch The Demo](https://youtu.be/61CBP3WYmlQ)
 
 ---
 
@@ -112,7 +112,7 @@ Automated testing using GitHub Actions:
 ---
 
 ## Contributing
-Contributions are welcome! Open a pull request or submit an issue.
+Contributions are welcome! Open a pull request or send an email.
 
 ---
 

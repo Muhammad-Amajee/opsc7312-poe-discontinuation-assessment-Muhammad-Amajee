@@ -28,19 +28,42 @@
 ---
 
 ## Features
-- **Single Sign-On (SSO):** Secure authentication using SSO for seamless access.
-- **Biometric Authentication:** Supports fingerprint or facial recognition for added security.
-- **User Settings:** Users can modify preferences related to notifications, language, and themes.
-- **REST API Integration:** Connects to a backend database for real-time event management.
-- **Offline Mode with Sync:** Allows users to access and modify events offline, with automatic synchronization when reconnected.
-- **Real-time Notifications:** Push notifications for timely updates.
-- **Multi-language Support:** Supports at least two South African languages.
-- **Automated Testing & GitHub Actions:** Implements CI/CD workflows for quality assurance.
-- **App Icon & UI Assets:** Professional visuals for an enhanced user experience.
+Single Sign-On (SSO)
+> Allows users to register and log in via a secure SSO service, providing easy access and enhanced security.
 
-### User-Defined Features
-- **Customizable Event Reminders:** Set reminders at specific intervals.
-- **Cross-Platform Syncing:** Sync event data across multiple devices.
+Biometric Authentication 
+> Implements fingerprint or facial recognition for secure user authentication.
+
+User Settings
+> Users can update personal settings, including preferences related to notifications, language, and themes.
+
+REST API Integration
+> Connects to a REST API managing event data in a backend database, supporting real-time data retrieval and updating.
+
+Offline Mode with Sync
+> Allows users to perform actions offline with synchronization capabilities once reconnected.
+
+Real-time Notifications
+> Implements a push notification system for real-time updates and alerts.
+
+Multi-language Support
+> Supports at least 2 South African languages.
+
+Automated Testing & GitHub Actions
+> Automated build and test processes ensure continuous integration and quality, utilizing GitHub Actions to automate testing workflows.
+
+App Icon and Final Image Assets
+> Features a user-friendly app icon and final image assets for a professional appearance.
+
+---
+
+## User-Defined Features
+
+Customizable Event Reminders
+> Users will have the ability to set reminders for events at customizable intervals, ensuring they never miss an important moment.
+
+Cross-Platform Syncing
+> EventBuddy will offer seamless syncing across multiple devices, ensuring users can access their event data wherever they go.
 
 ---
 

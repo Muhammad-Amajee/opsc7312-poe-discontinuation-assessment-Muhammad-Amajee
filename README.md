@@ -180,31 +180,31 @@ The initial release of Event Buddy introduces a comprehensive event management a
 
 ## Improvements
 Enhanced UI/UX 
-- User-friendly interface with consistent design, intuitive navigation, and visual elements for ease of use.
+   - User-friendly interface with consistent design, intuitive navigation, and visual elements for ease of use.
 
 Error Handling 
-> Improved error handling ensures smooth operation and prevents crashes due to invalid input or connectivity issues.
+   - Improved error handling ensures smooth operation and prevents crashes due to invalid input or connectivity issues.
 
 ---
 
 ## Technical Enhancements
 GitHub Actions Integration
-> Automated CI/CD pipeline set up with GitHub Actions for continuous integration and automated testing.
+   - Automated CI/CD pipeline set up with GitHub Actions for continuous integration and automated testing.
 
 REST API and Database Setup
-> REST API connects seamlessly to a database for secure and efficient data handling.
+   - REST API connects seamlessly to a database for secure and efficient data handling.
 
 Logging  
-> Logging implemented for tracking key app events and debugging.
+   - Logging implemented for tracking key app events and debugging.
 
 ---
 
 ## Known Issues
 Occasional Delays in Notification Delivery  
-> Notifications may experience minor delays due to server sync times.
+   - Notifications may experience minor delays due to server sync times.
 
 Limited Multi-Language Support  
-> Initial release includes two South African languages; additional languages will be added in future releases.
+   - Initial release includes two South African languages; additional languages will be added in future releases.
 
 ---
 

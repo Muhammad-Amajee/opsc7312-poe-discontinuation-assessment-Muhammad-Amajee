@@ -180,7 +180,7 @@ The initial release of Event Buddy introduces a comprehensive event management a
 
 ## Improvements
 Enhanced UI/UX 
-> User-friendly interface with consistent design, intuitive navigation, and visual elements for ease of use.
+- User-friendly interface with consistent design, intuitive navigation, and visual elements for ease of use.
 
 Error Handling 
 > Improved error handling ensures smooth operation and prevents crashes due to invalid input or connectivity issues.

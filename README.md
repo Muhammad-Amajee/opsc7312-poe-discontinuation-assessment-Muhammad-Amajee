@@ -3,11 +3,10 @@
 ## Author Information
 **Name:** Muhammad Amajee  
 **Student Number:** ST10117234  
-**GitHub Repository:** [EventBuddy GitHub Repo](https://github.com/VCDN-2024/opsc7312-part-poe-Muhammad-Amajee)
+**GitHub Repository:** [EventBuddy GitHub Repo](https://github.com/Muhammad-Amajee/opsc7312-poe-discontinuation-assessment-Muhammad-Amajee)
 
 ## Project Links
-- **Google Drive:** [Project Files](https://drive.google.com/drive/folders/1lvjtKEa8qZ4RgQyES08U8HtVUuc2n4xR?usp=drive_link)
-- **OneDrive:** [Project Files](https://1drv.ms/u/c/6e2099341517f389/EaAueyfktLdLi9NevR0FmZMBs63L-avF1Rrl7o71okJYlw?e=nmrjgb)
+- **OneDrive:** [Project Files](https://onedrive.live.com/?cid=6E2099341517F389&id=6E2099341517F389%21sea0e69d1e12547fcaf6e917bf6dfd447&parId=root&o=OneUp)
 - **YouTube Video Demonstration:** [Demo Video](https://youtu.be/61CBP3WYmlQ)
 
 ---

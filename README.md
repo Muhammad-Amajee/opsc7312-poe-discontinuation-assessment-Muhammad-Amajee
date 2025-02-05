@@ -55,7 +55,7 @@
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/VCDN-2024/opsc7312-part-2-Muhammad-Amajee.git
+   git clone https://github.com/Muhammad-Amajee/opsc7312-poe-discontinuation-assessment-Muhammad-Amajee.git
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle to install dependencies.

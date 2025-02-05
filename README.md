@@ -21,9 +21,11 @@
 7. [Design Considerations](#design-considerations)
 8. [Contributing](#contributing)
 9. [Release Notes](#release-notes)
-10. [Known Issues](#known-issues)
-11. [Future Improvements](#future-improvements)
-12. [Contact Information](#contact-information)
+10. [Improvements](#improvements)
+11. [Technical Enhancements](#technical-enhancements)
+12. [Known Issues](#known-issues)
+13. [Next Steps](#next-steps)
+14. [Contact Information](#contact-information)
 
 ---
 
